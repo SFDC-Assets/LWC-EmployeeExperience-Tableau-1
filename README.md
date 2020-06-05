@@ -34,6 +34,9 @@ In the Git Repository, refer to  supplierDashboard component for creating a reco
 1. Import Tableau JS file
 2. renderedCallback() and initViz() 
   →  define which Tableau dashboard to render
+
+    Dashboard URL here is from a Tableau Online instance, remember to replace it with ones from [Tableau Public](https://public.tableau.com/profile/fshih#!/vizhome/EmployeeExperience/eeInsights)
+
 3. listenToMarkSelection() 
   → listens to user interaction with Tableau
 4. onMarkSelection()
