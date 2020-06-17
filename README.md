@@ -9,7 +9,7 @@ This Lightning Web Component (LWC) repository contains code that achieves the fo
 This project is built to fill in the gap of Analytics as starting point in Employee Experience story.
 
 It has been used as a demo for Opportunities.
-[More details](https://docs.google.com/presentation/d/1Ay5ozgm9v_9dgJ_wd1r9EywktyN6ITSNvIU3FJL55PE/edit?usp=sharing)
+[More details](https://docs.google.com/presentation/d/1rFVE9qgm1WSZkkTHtaogk0xFjZ_JmMCOXkzWEfva4tc/edit?usp=sharing)
 
 ### Demo Flow
 - [Salesforce Employee Engagement Story](https://youtu.be/dCKR12bL_J8)
